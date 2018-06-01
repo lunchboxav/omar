@@ -1,6 +1,9 @@
 # omar
 Boilerplate Rust untuk API Server dengan database MySQL
 
+## Penting: Project ini menggunakan framework Iron, yang ternyata sudah tidak aktif dikembangkan.
+## TODO: Mengupdate project dengan menggunakan framework lain
+
 Ini adalah contoh aplikasi menggunakan bahasa pemrograman Rust. Sesuai deskripsinya, aplikasi ini adalah backend sebuah aplikasi web. Ia melakukan fungsi-fungsi berikut:
 
 - Mengambil data dari database MySQL
